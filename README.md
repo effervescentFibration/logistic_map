@@ -12,7 +12,7 @@ Spring 2016
 
 ## Disclaimer
 
-No warranty, express or implied, is offered for anything in this repository. If you blow something up as a result of using anything in this repo and are sued by some regulatory body, I am not obliged to, and will not accept, responsibility for your mistake(s).
+No warranty, express or implied, is offered for anything in this repository. If you blow something up as a result of using anything in this repo and are sued by some regulatory body, I am not obliged to, and will not, accept responsibility for your mistake(s).
 
 ## Contents & Usage
 
